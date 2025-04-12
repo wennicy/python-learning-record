@@ -20,8 +20,11 @@
 
 | 文件名 | 内容简介 |
 |--------|----------|
-| [`01python基础知识.ipynb`](./01python基础.ipynb) | Python 运算符、字符串格式化、数据输入、条件判断、while 循环、for 循环、continue 和 break等 |
-| `02-xxx.ipynb` *(coming soon)* | 模块、函数、自定义库... | 
+| [`01 python基础知识.ipynb`] | Python 运算符、字符串格式化、数据输入、条件判断、while 循环、for 循环、continue 和 break等 |
+| [`02 函数.ipynb.ipynb`] | 函数的定义、传入参数、返回值、None类型、说明文档、局部变量、全局变量、global关键字 | 
+| [`03 列表.ipynb.ipynb`] | 常用操作：查询、修改、插入、追加、删除、清空、统计元素数量、统计列表长度、循环遍历 | 
+
+| `04-xxx.ipynb` *(coming soon)* | ... | 
 
 > ✅ 后续会持续更新新的 Notebook，记录更多学习内容
 
